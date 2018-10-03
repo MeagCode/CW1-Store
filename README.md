@@ -1,2 +1,5 @@
 # CW1-Store
-Online Shopping interface eventually
+Online Shopping website for Web Programming Coursework
+
+
+
